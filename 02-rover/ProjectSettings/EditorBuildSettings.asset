@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MRTKTutorials02Rover.unity
+    guid: ee23e5b47f11f9f45a4a6d3454a18638
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: f4e38aa108d8da941ad2ce500ce6a777, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 5eb23755755acab42b353a4dbc0a9d7e, type: 2}
