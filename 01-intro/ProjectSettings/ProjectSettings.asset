@@ -138,7 +138,6 @@ PlayerSettings:
   preloadedAssets:
   - {fileID: 3616823527999745838, guid: 84cdd5ed584b89641b4309a901349124, type: 2}
   - {fileID: -3626019610961100980, guid: 7e6970eba99b2b142a8e0dab23dcab09, type: 2}
-  - {fileID: 0}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -614,11 +613,11 @@ PlayerSettings:
   m_MobileRenderingPath: 1
   metroPackageName: MRTKTutorials-01-Intro
   metroPackageVersion: 1.0.0.0
-  metroCertificatePath: 
+  metroCertificatePath: C:\dev\jy\mixedreality-learning\01-intro\Assets\WSATestCertificate.pfx
   metroCertificatePassword: 
-  metroCertificateSubject: 
-  metroCertificateIssuer: 
-  metroCertificateNotAfter: 0000000000000000
+  metroCertificateSubject: DefaultCompany
+  metroCertificateIssuer: DefaultCompany
+  metroCertificateNotAfter: 809cc17b1425d901
   metroApplicationDescription: Template_3D
   wsaImages: {}
   metroTileShortName: 01-intro
